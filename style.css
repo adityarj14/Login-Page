@@ -4,15 +4,15 @@
     padding: 0;
 }
 body{
-    background: url(bg.jpg) no-repeat center center fixed;
+    background: url(bg6.jpg) no-repeat center center fixed;
     background-size: cover;
 }
 
 .container{
     color: whitesmoke;
     position: absolute;
-    top: 38%;
-    left: 43%;
+    top: 27%;
+    left: 40%;
 }
 
 .container h1{
@@ -20,7 +20,7 @@ body{
     width: 50%;
     display: inline-block;
     font-size: 40px;
-    border-bottom: 5px solid yellowgreen;
+   
     margin-bottom: 1px;
     padding: 10px 0;
 
@@ -29,11 +29,11 @@ body{
 .box{
     width: 100%;
     margin: 27px 0px;
-    border-bottom: 2px solid yellowgreen;
+    border-bottom: 2px solid rgb(241, 65, 241);
 }
 .box input{
     background: none;
-    width: 75%;
+    width: 85%;
     padding: 5px 10px;;
     font-size: 20px;
     border: none;
@@ -41,17 +41,17 @@ body{
     color: white;
 }
 .box i{
-    width: 30px;
+    width: 20px;
     text-align: center;
 }
 
 .button{
-    color: aqua;
+    color: rgb(44, 2, 44);
     cursor: pointer;
     outline: none;
     margin: 12px 0px;
     padding: 10px 21px;
-    border: 2px solid greenyellow;
+    border: 2px solid rgb(239, 62, 239);
     border-radius: 10px;
     font-size: 18px;
     background: none;
@@ -59,6 +59,6 @@ body{
 }
 .button:hover{
     opacity: 0.5px;
-    color: rgb(161, 240, 240);
-    background: gray;
+    color: rgb(115, 19, 130);
+    background: rgb(230, 155, 220);
 }
