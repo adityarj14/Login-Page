@@ -1,8 +1,8 @@
 # Login-Page
-This is a simple Transparent Login page made using HTML and CSS.
+This is a simple Transparent Login page made using HTML and CSS. practice repo
 
 # Screensort 
-                                                                                          On Dextop
+                                                                          
 
 
 
